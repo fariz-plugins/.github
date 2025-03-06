@@ -1,1 +1,1 @@
-# .github
+# Fariz Plugins Profile
